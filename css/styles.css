@@ -58,6 +58,7 @@ Medium: 1rem;
       color: var(--primary-text-color);
       
   }
+ 
 
   .page-content{
     margin: 0 auto;
@@ -114,7 +115,7 @@ Medium: 1rem;
   }
 
   .standard-label:focus{
-    border-color: var(--border-color-1: #80bdff);
+    border-color: var(--border-color-1);
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
   }
